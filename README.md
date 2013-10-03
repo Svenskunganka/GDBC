@@ -5,7 +5,7 @@
 * Linux OS
 * Web-server with PHP5 installed.
 * sqlite3 installed.
-    * ```shell 
+    * ``` 
      sudo apt-get install sqlite3
     ```
 
