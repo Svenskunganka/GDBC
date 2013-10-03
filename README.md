@@ -8,8 +8,8 @@
     * ```shell sudo apt-get install sqlite3
 
 **Currently supports:**
-*DarkRP SQlite to MySQL
-*Pointshop SQLite to MySQL
+* DarkRP SQlite to MySQL
+* Pointshop SQLite to MySQL
 
 **Features:**
 Convert SQLite values to MySQL values and either send the converted code to Pastebin or send the user a .sql file containing the converted code.
