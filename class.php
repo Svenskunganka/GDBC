@@ -193,6 +193,11 @@ class SQLiteToMySQL {
 						}
 					}
 				}
+				elseif($type == "utime") {
+					if(strpos($value, 'INSERT INTO "utime"') === false) {
+						unset($eachline[$key]);
+					}
+				}
 			}
 			$code = implode(";", $eachline);
 			$code .= ";";
