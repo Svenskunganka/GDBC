@@ -5,9 +5,7 @@
 * Linux OS
 * Web-server with PHP5 installed.
 * sqlite3 installed.
-    * ``` 
-     sudo apt-get install sqlite3
-    ```
+    * `sudo apt-get install sqlite3`
 
 **Currently supports:**
 * DarkRP SQlite to MySQL
